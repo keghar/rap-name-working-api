@@ -14,10 +14,10 @@ const rappers = {
         'birthLocation': 'London, England',
         'age': 29},
 
-        'unknown':{
-            'birthName': 'unknown',
-            'birthLocation': 'unknown',
-            'age': 29},
+    'unknown':{
+        'birthName': 'unknown',
+        'birthLocation': 'unknown',
+        'age': 29},
 }
 
 
