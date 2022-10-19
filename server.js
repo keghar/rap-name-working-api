@@ -32,7 +32,7 @@ app.get('/api/:name',(request,response)=>{
     }else {
         response.json(rappers['unknown'])
     }
-    // response.json(rappers)
+    response.json(rappers)
 })
 
 app.listen(process.env.port || PORT, ()=>{
